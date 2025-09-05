@@ -9,7 +9,7 @@ git clone https://github.com/walker277/Sachy.git
 
 ## Spuštění
 Podrobnosti viz dokumentace: Sachy/doc/dokumentace.pdf
-Je potřeba mít nainstalovanou Javu verze 21 nebo vyšší !!!!!!!
+***Je potřeba mít nainstalovanou Javu verze 21 nebo vyšší !!!!!!!***
 V kořenovém adresáři projektu spusťte:
   bash Run.sh (Linux)
   Run.cmd (Windows cmd)
